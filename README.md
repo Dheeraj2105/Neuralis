@@ -5,7 +5,7 @@ Neuralis is a full-stack web application that screens for Parkinson's Disease us
 
 
 
-> ⚠️ **Disclaimer:** Neuralis is a research/educational screening tool, **not a medical device**. It does not diagnose Parkinson's Disease. Always consult a qualified neurologist.
+
 
 ---
 
