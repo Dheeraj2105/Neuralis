@@ -1,7 +1,7 @@
 # 🧠 Neuralis 
 **AI-powered Parkinson's Disease screening from spiral drawings and voice recordings.**
 
-Neuralis is a full-stack web application that screens for Parkinson's Disease using two independent biomarker channels — hand-drawn spiral analysis (CNN) and voice analysis (custom STRN architecture) — fused into a single weighted risk score.
+Neuralis is a web application that screens for Parkinson's Disease using two independent biomarker channels — hand-drawn spiral analysis (CNN) and voice analysis (custom STRN architecture) — fused into a single weighted risk score.
 
 
 
@@ -65,7 +65,6 @@ A **custom neural architecture built in pure NumPy** (no deep-learning framework
 |---|---|
 | Frontend | React  |
 | Backend | Flask REST API |
-| Deployment | Docker on Hugging Face Spaces |
 | Drawing model | CNN — TensorFlow/Keras, 128×128 RGB input |
 | Voice model | STRN — pure NumPy custom architecture |
 | Audio pipeline | ffmpeg (WebM → WAV) |
