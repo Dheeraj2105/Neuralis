@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pdb
+*.db
+*.log
+
+# Virtual environments
+venv/
+env/
+.parkinsons_env/
+parkinsons_env/
+parkinsons-prediction-app/parkinsons_env/
+
+# Node and frontend build
+node_modules/
+build/
+dist/
+.DS_Store
